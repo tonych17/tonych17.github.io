@@ -1,4 +1,3 @@
-![KfWAB9.png](https://s2.ax1x.com/2019/10/30/KfWAB9.png)
 ![](https://github.com/tonych17/tonych17.github.io/raw/master/Ti.png)
 
 
