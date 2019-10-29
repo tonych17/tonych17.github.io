@@ -1,9 +1,14 @@
 ![Ti](https://github.com/tonych17/tonych17.github.io/blob/master/Ti.png)
 
 
+
+
+
+
 <img align="left" src="https://github.com/tonych17/tonych17.github.io/blob/master/Pic.jpg"/>
 <img align="right" src="https://github.com/tonych17/tonych17.github.io/blob/master/ID.png"/>
-**Tonghui ZHANG**
+
+# Tonghui ZHANG
 
 PhD Candidate in Finance
 
@@ -13,9 +18,12 @@ Department of Management, Technology and Economics, ETH Zurich
 
 Email: [tonych17@outlook.com](mailto:tonych17@outlook.com)
 
-Research Interests:
+**Research Interests:**
 
 Volatility modeling, Behavior finance, Empirical asset pricing, Financial risk management
+
+
+
 
 
 ## Working Papers
