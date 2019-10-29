@@ -39,8 +39,9 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 
+
 Tonghui ZHANG
-![Pic.md](src=https://github.com/tonych17/tonych17.github.io/blob/master/Pic.jpg "Pic.md")
+![Pic](src=https://github.com/tonych17/tonych17.github.io/blob/master/Pic.jpg "Pic")
 
 Tonghui ZHANG
 PhD Candidate in Finance
@@ -59,7 +60,7 @@ Curriculum Vitae
 
 
 
-##Working Papers
+## Working Papers
 1. Does Baidu Index Help to Predict Stock Market Volatility?
 
 With Ying Yuan and Yu Wei
@@ -79,7 +80,7 @@ With Ying Yuan
 **Abstract:** This paper analyses the multifractality in Shanghai and Shenzhen stock markets using multifractal spectrum analysis and multifractal detrended fluctuation analysis. Then, we investigate whether intraday effect and measure error can impact on future volatility based on multifractal insight. We propose a new multifractal volatility measure (MVWA) which eliminate the intraday effect and reduce the measure error. Furthermore, we construct a new type of multifractal volatility models based on the heterogeneous autoregressive model. The out-of-sample results tell us that the new multifractal volatility model can indeed improve the forecasting performance. Moreover, we also find evidence that the multifractal volatility models can beat the realized volatility models in forecasting.
 
 
-##Under Review
+## Under Review
 1. Forecasting Stock Market in High and Low Volatility Periods: A Modified Multifractal Volatility Approach
 
 With Ying Yuan
@@ -101,7 +102,7 @@ With Ying Yuan, and Xintian Zhuang
 _System Engineering Theory and Practice. Forthcoming._
 
 
-##Publications
+## Publications
 1. [Is microblogging data reflected in stock market volatility? Evidence from Sina Weibo](https://www.sciencedirect.com/science/article/pii/S1544612318307803)
 
 With Ying Yuan, and Xi Wu
@@ -137,7 +138,7 @@ With Ying Yuan, Mengdi Wang, and Xiaoian Fan
 _System Engineering Theory and Practice. 36(11): 2778-2790, November 2016._
 
 
-##Work in Progress
+## Work in Progress
 1. Can Online Emotions Predict the Stock Market in China?
 
 With Ying Yuan, and Didier Sornette
