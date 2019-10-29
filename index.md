@@ -40,8 +40,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 Tonghui ZHANG
-
-
+![Pic.md](src=https://github.com/tonych17/tonych17.github.io/blob/master/Pic.jpg "Pic.md")
 
 Tonghui ZHANG
 PhD Candidate in Finance
