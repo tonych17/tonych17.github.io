@@ -9,7 +9,7 @@
 
 # [Tonghui ZHANG](https://orcid.org/0000-0002-1366-7694)
 
-PhD Candidate in Finance
+**PhD Candidate in Finance**
 
 School of Business Administration, Northeastern University
 
@@ -44,7 +44,7 @@ Volatility modeling, Behavior finance, Empirical asset pricing, Financial risk m
 >_With Ying Yuan_<br />_Empirical Economics. Under Review._
 
 
-2. Multifractal volatility forecast of Chinese stock market based on high-frequency data
+2. Can investor attention help to predict stock market volatility? An empirical research based on Chinese stock market high-frequency data 
 >_With Ying Yuan, and Wen Zeng_<br />_Chinese Journal of Management Science. Forthcoming._
 
 
