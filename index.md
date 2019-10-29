@@ -1,4 +1,4 @@
-![Ti](https://github.com/tonych17/tonych17.github.io/blob/master/Ti.png)
+![](https://github.com/tonych17/tonych17.github.io/blob/master/Ti.png)
 
 
 
