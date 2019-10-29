@@ -21,7 +21,7 @@ Email: [tonych17@outlook.com](mailto:tonych17@outlook.com)
 
 Volatility modeling, Behavior finance, Empirical asset pricing, Financial risk management
 
-
+**[Curriculum Vitae](http://www.cnki.com.cn/Article/CJFDTotal-SGLK201901014.htm)**
 
 
 
