@@ -1,12 +1,12 @@
 ![KfWAB9.png](https://s2.ax1x.com/2019/10/30/KfWAB9.png)
+![](https://github.com/tonych17/tonych17.github.io/raw/master/Ti.png)
 
 
 
 
 
-
-<img align="left" src="https://github.com/tonych17/tonych17.github.io/blob/master/Pic.jpg"/>
-<img align="right" src="https://github.com/tonych17/tonych17.github.io/blob/master/ID.png"/>
+<img align="left" src="https://github.com/tonych17/tonych17.github.io/raw/master/Pic.jpg"/>
+<img align="right" src="https://github.com/tonych17/tonych17.github.io/raw/master/ID.png"/>
 
 # Tonghui ZHANG
 
