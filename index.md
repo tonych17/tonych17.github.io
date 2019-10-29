@@ -1,6 +1,10 @@
-![Pic](src=https://github.com/tonych17/tonych17.github.io/blob/master/Pic.jpg)
+![Ti](https://github.com/tonych17/tonych17.github.io/blob/master/Ti.png)
 
-Tonghui ZHANG
+
+<img align="left" src="https://github.com/tonych17/tonych17.github.io/blob/master/Pic.jpg"/>
+<img align="right" src="https://github.com/tonych17/tonych17.github.io/blob/master/ID.png"/>
+**Tonghui ZHANG**
+
 PhD Candidate in Finance
 
 School of Business Administration, Northeastern University
@@ -12,9 +16,6 @@ Email: [tonych17@outlook.com](mailto:tonych17@outlook.com)
 Research Interests:
 
 Volatility modeling, Behavior finance, Empirical asset pricing, Financial risk management
-
-Curriculum Vitae
-
 
 
 ## Working Papers
