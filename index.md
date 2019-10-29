@@ -5,7 +5,7 @@
 
 
 <img align="left" src="https://github.com/tonych17/tonych17.github.io/raw/master/Pic.jpg"/>
-<img align="right" src="https://github.com/tonych17/tonych17.github.io/raw/master/ID.png"/>
+<img align="right" src="https://github.com/tonych17/tonych17.github.io/raw/master/ORC.png"/>
 
 # Tonghui ZHANG
 
