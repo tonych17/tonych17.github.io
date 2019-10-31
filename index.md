@@ -44,11 +44,15 @@ Volatility modeling, Behavior finance, Empirical asset pricing, Financial risk m
 >_With Ying Yuan_<br />_Empirical Economics. Under Review._
 
 
-2. Can investor attention help to predict stock market volatility? An empirical research based on Chinese stock market high-frequency data 
+2. Investor Attention, Market Volatility and Price Jump: New evidence from the ChiNext
+>_With Ying Yuan_<br />_Economics Letters. Under Review._
+
+
+3. Can investor attention help to predict stock market volatility? An empirical research based on Chinese stock market high-frequency data 
 >_With Ying Yuan, and Wen Zeng_<br />_Chinese Journal of Management Science. Forthcoming._
 
 
-3. Multifractal volatility forecast of Chinese stock market based on high-frequency data
+4. Multifractal volatility forecast of Chinese stock market based on high-frequency data
 >_With Ying Yuan, and Xintian Zhuang_<br />_System Engineering Theory and Practice. Forthcoming._
 
 
