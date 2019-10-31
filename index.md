@@ -21,7 +21,7 @@ Email: [tonych17@outlook.com](mailto:tonych17@outlook.com)
 
 Volatility modeling, Behavior finance, Empirical asset pricing, Financial risk management
 
-**[Curriculum Vitae](http://https://tonych17.github.io)**
+**[Curriculum Vitae](http://tonych17.github.io)**
 
 
 
