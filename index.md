@@ -52,9 +52,6 @@ Volatility modeling, Behavior finance, Empirical asset pricing, Financial risk m
 >_With Ying Yuan, and Wen Zeng_<br />_Chinese Journal of Management Science. Forthcoming._
 
 
-4. Multifractal volatility forecast of Chinese stock market based on high-frequency data
->_With Ying Yuan, and Xintian Zhuang_<br />_System Engineering Theory and Practice. Forthcoming._
-
 
 ## Publications
 1. [Is microblogging data reflected in stock market volatility? Evidence from Sina Weibo](https://www.sciencedirect.com/science/article/pii/S1544612318307803)
@@ -65,15 +62,19 @@ Volatility modeling, Behavior finance, Empirical asset pricing, Financial risk m
 >_With Ying Yuan, and Xintian Zhuang_<br />_Journal of Northeastern University. In Press._
 
 
-3. [Determination of Extreme Volatility Threshold of Chinese Stock Market Based on DFA and Its Application:Evidence from Shanghai Composite Index](http://www.cnki.com.cn/Article/CJFDTotal-SGLK201901014.htm)
+3. Multifractal volatility forecast of Chinese stock market based on high-frequency data
+>_With Ying Yuan, and Xintian Zhuang_<br />_System Engineering Theory and Practice. Forthcoming._
+
+
+4. [Determination of Extreme Volatility Threshold of Chinese Stock Market Based on DFA and Its Application:Evidence from Shanghai Composite Index](http://www.cnki.com.cn/Article/CJFDTotal-SGLK201901014.htm)
 >_With Ying Yuan, and Xintong Yu_<br />_Shanghai Management Science. 41(1): 81-85, January 2019._
 
 
-4. [Empirical research on the dependency of the CSI 300 index futures market and spot market](http://oversea.cnki.net/kcms/detail/detail.aspx?recid=&FileName=DBDX201701030&DbName=CJFD2017&DbCode=CJFD&uid=WEEvREcwSlJHSldRa1FhdkJkVWI2cEgrNUYxOHFWRVNRUk9WaDJuVlZyUT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!)
+5. [Empirical research on the dependency of the CSI 300 index futures market and spot market](http://oversea.cnki.net/kcms/detail/detail.aspx?recid=&FileName=DBDX201701030&DbName=CJFD2017&DbCode=CJFD&uid=WEEvREcwSlJHSldRa1FhdkJkVWI2cEgrNUYxOHFWRVNRUk9WaDJuVlZyUT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!)
 >_With Ying Yuan, Mengdi Wang, and Xiaoqian Fan_<br />_Journal of Northeastern University. 38(1): 148-152, January 2017._
  
 
-5. [Research on the examination of dependency of market, the asymmetry and the direction of contagion](http://eng.oversea.cnki.net/kcms/detail/detail.aspx?recid=&FileName=XTLL201611005&DbName=CJFD2016&DbCode=CJFD&uid=WEEvREcwSlJHSldRa1FhdkJkVWI2cEgrNUYxOHFWRVNRUk9WaDJuVlZyUT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!)
+6. [Research on the examination of dependency of market, the asymmetry and the direction of contagion](http://eng.oversea.cnki.net/kcms/detail/detail.aspx?recid=&FileName=XTLL201611005&DbName=CJFD2016&DbCode=CJFD&uid=WEEvREcwSlJHSldRa1FhdkJkVWI2cEgrNUYxOHFWRVNRUk9WaDJuVlZyUT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!)
 >_With Ying Yuan, Mengdi Wang, and Xiaoian Fan_<br />_System Engineering Theory and Practice. 36(11): 2778-2790, November 2016._
 
 
