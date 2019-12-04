@@ -63,7 +63,7 @@ Volatility modeling, Behavior finance, Empirical asset pricing, Financial risk m
 
 
 3. Multifractal volatility forecast of Chinese stock market based on high-frequency data
->_With Ying Yuan, and Xintian Zhuang_<br />_System Engineering Theory and Practice. Forthcoming._
+>_With Ying Yuan, and Xintian Zhuang_<br />_System Engineering Theory and Practice. In Press._
 
 
 4. [Determination of Extreme Volatility Threshold of Chinese Stock Market Based on DFA and Its Application:Evidence from Shanghai Composite Index](http://www.cnki.com.cn/Article/CJFDTotal-SGLK201901014.htm)
