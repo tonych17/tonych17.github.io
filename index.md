@@ -59,7 +59,7 @@ Volatility modeling, Behavior finance, Empirical asset pricing, Financial risk m
 
 
 2. Multifractal Volatility Modeling with the Jump and Leverage Effect
->_With Ying Yuan, and Xintian Zhuang_<br />_Journal of Northeastern University. In Press._
+>_With Ying Yuan, and Xintian Zhuang_<br />_Journal of Northeastern University (Natural Science). In Press._
 
 
 3. Multifractal volatility forecast of Chinese stock market based on high-frequency data
