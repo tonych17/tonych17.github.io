@@ -66,8 +66,7 @@ Volatility modeling, Behavior finance, Empirical asset pricing, Financial risk m
 >_With Ying Yuan, and Xintian Zhuang_<br />_System Engineering Theory and Practice. In Press._
 
 
-4. [Determination of Extreme Volatility Threshold of Chinese Stock Market Based on DFA and Its Application:Evidence from Shanghai Composite Index]
-(http://new.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2019&filename=SGLK201901014&v=MTQwMzZXNzNJTmlySFpiRzRIOWpNcm85RVlJUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSTE9lWmVkdUZDbm4=)
+4. [Determination of Extreme Volatility Threshold of Chinese Stock Market Based on DFA and Its Application:Evidence from Shanghai Composite Index](http://new.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2019&filename=SGLK201901014&v=MTQwMzZXNzNJTmlySFpiRzRIOWpNcm85RVlJUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSTE9lWmVkdUZDbm4=)
 >_With Ying Yuan, and Xintong Yu_<br />_Shanghai Management Science. 41(1): 81-85, January 2019._
 
 
