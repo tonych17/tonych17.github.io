@@ -48,21 +48,21 @@ Volatility modeling, Behavior finance, Empirical asset pricing, Financial risk m
 >_With Ying Yuan_<br />_Economics Letters. Under Review._
 
 
-## Publications
+## Publications and forthcoming
 1. [Is microblogging data reflected in stock market volatility? Evidence from Sina Weibo](https://www.sciencedirect.com/science/article/pii/S1544612318307803)
->_With Ying Yuan, and Xi Wu_<br />_Finance Research Letters. In Press._
+>_With Ying Yuan, and Xi Wu_<br />_Finance Research Letters. Forthcoming_
 
 
-2. Multifractal Volatility Modeling with the Jump and Leverage Effect
->_With Ying Yuan, and Xintian Zhuang_<br />_Journal of Northeastern University (Natural Science). In Press._
+2. Can investor attention help to predict stock market volatility? An empirical research based on Chinese stock market high-frequency data 
+>_With Ying Yuan, and Wen Zeng_<br />_Chinese Journal of Management Science. Forthcoming_
 
 
 3. Multifractal volatility forecast of Chinese stock market
->_With Ying Yuan, and Xintian Zhuang_<br />_System Engineering Theory and Practice. In Press._
+>_With Ying Yuan, and Xintian Zhuang_<br />_System Engineering Theory and Practice. Forthcoming_
 
 
-4. Can investor attention help to predict stock market volatility? An empirical research based on Chinese stock market high-frequency data 
->_With Ying Yuan, and Wen Zeng_<br />_Chinese Journal of Management Science. In Press._
+4. Multifractal Volatility Modeling with the Jump and Leverage Effect
+>_With Ying Yuan, and Xintian Zhuang_<br />_Journal of Northeastern University (Natural Science). Forthcoming_
 
 
 5. [Determination of Extreme Volatility Threshold of Chinese Stock Market Based on DFA and Its Application:Evidence from Shanghai Composite Index](http://new.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2019&filename=SGLK201901014&v=MTQwMzZXNzNJTmlySFpiRzRIOWpNcm85RVlJUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSTE9lWmVkdUZDbm4=)
