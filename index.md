@@ -1,5 +1,4 @@
-![](https://github.com/tonych17/tonych17.github.io/raw/master/Tip.png)
-
+<img src="https://github.com/tonych17/tonych17.github.io/raw/master/Tip.png" width="60%" height="60%" />
 
 
 
