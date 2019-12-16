@@ -11,7 +11,7 @@
 
 School of Business Administration, Northeastern University
 
-Department of Management, Technology and Economics, ETH Zurich
+Department of Management, Technology, and Economics, ETH Zurich
 
 Email: [tonych17@outlook.com](mailto:tonych17@outlook.com)
 
