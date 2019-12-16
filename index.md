@@ -72,7 +72,7 @@ Volatility modeling, Behavior finance, Empirical asset pricing, Financial risk m
 >_With Ying Yuan, and Didier Sornette_
 
 3. Are Multifractal Processes Reliable to Predict Stock Market Volatility? Evidence from China Intraday Data
->_With Ying Yuan_<br />
+>_With Ying Yuan_
 
 ## Work in Progress
 1. Forecasting the Stock Market Volatility Using Online Data: Which Data Forecast Best, When and Why? 
