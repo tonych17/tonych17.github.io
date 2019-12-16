@@ -28,7 +28,7 @@ Volatility modeling, Behavior finance, Empirical asset pricing, Financial risk m
 
 ## Under Review
 1. Forecasting Stock Market in High and Low Volatility Periods: A Modified Multifractal Volatility Approach
->_With Ying Yuan_<br />_Empirical Economics. Under Review._
+>_With Ying Yuan_<br />_Chaos, Solitons & Fractals. Under Review._
 
 
 2. Investor Attention, Market Volatility and Price Jump: New evidence from the ChiNext
