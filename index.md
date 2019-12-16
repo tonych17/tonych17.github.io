@@ -65,16 +65,15 @@ Volatility modeling, Behavior finance, Empirical asset pricing, Financial risk m
 
 
 ## Working Papers
-1. Does Baidu Index Help to Predict Stock Market Volatility?
->_With Ying Yuan and Yu Wei_<br />**Abstract:** In this paper, we document that Internet search queries (based on Baidu Index) can reliably predict the Chinese stock market volatility. Specifically, we investigate the lead and lag relationship between Internet search queries and stock market volatility by using time-delay detrended cross-correlation analysis (DCCA). We propose several new HAR-type models including investor attention variable and test the predictive power of these new models over the period 2011-2016. Our results suggest that, on the daily and weekly forecasting horizons, Internet search queries can reliably help to predict stock market volatility, and that the prediction accuracy is positively related to the intensity of search queries. Our findings have important implications in portfolio allocation and financial risk management applications.
+1. Is investor attention more informative than price jump in volatility forecasting? Evidence from the ChiNext stock market 
+>_With Ying Yuan and Yu Wei_
 
-2. Forecasting Stock Market More Accurately: A Modified Multifractal Volatility Approach
->_With Ying Yuan_<br />**Abstract:** In this paper, we propose a new multifractal volatility measure (MVA) and construct a new type of multifractal volatility models based on heterogeneous market hypothesis. Similar to the model setting of heterogeneous autoregressive model for realized volatility (HAR-RV), we replace the variables utilized the in HAR-RV model with daily, weekly and monthly multifractal volatility. To evaluate the performance of our new multifractal volatility models, we compare the volatility forecasting accuracy of our models to that of other traditional benchmarks. The model confidence set test shows that our new multifractal volatility models outperform other traditional ones. 
+2. Forecasting through the Daily Postings: Sina Weibo and the Stock Market Volatility Predictability 
+>_With Ying Yuan, and Didier Sornette_
 
 3. Are Multifractal Processes Reliable to Predict Stock Market Volatility? Evidence from China Intraday Data
->_With Ying Yuan_<br /> **Abstract:** This paper analyses the multifractality in Shanghai and Shenzhen stock markets using multifractal spectrum analysis and multifractal detrended fluctuation analysis. Then, we investigate whether intraday effect and measure error can impact on future volatility based on multifractal insight. We propose a new multifractal volatility measure (MVWA) which eliminate the intraday effect and reduce the measure error. Furthermore, we construct a new type of multifractal volatility models based on the heterogeneous autoregressive model. The out-of-sample results tell us that the new multifractal volatility model can indeed improve the forecasting performance. Moreover, we also find evidence that the multifractal volatility models can beat the realized volatility models in forecasting.
-
+>_With Ying Yuan_<br />
 
 ## Work in Progress
-1. Can Online Emotions Predict the Stock Market in China?
+1. Forecasting the Stock Market Volatility Using Online Data: Which Data Forecast Best, When and Why? 
 >_With Ying Yuan, and Didier Sornette_
