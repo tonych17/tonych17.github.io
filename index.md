@@ -2,8 +2,8 @@
 
 
 
-<img align="left" src="https://github.com/tonych17/tonych17.github.io/raw/master/Pic.jpg" width="30%" height="30%"/>
-<img align="right" src="https://github.com/tonych17/tonych17.github.io/raw/master/ORC.png" width="20%" height="20%"/>
+<img align="left" src="https://github.com/tonych17/tonych17.github.io/raw/master/Pic.jpg" width="25%" height="25%"/>
+<img align="right" src="https://github.com/tonych17/tonych17.github.io/raw/master/ORC.png" width="15%" height="15%"/>
 
 # [Tonghui ZHANG](https://orcid.org/0000-0002-1366-7694)
 
