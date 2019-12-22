@@ -61,12 +61,12 @@ Volatility modeling, Behavior finance, Empirical asset pricing, Financial risk m
  
 
 7. [Research on the examination of dependency of market, the asymmetry and the direction of contagion](http://eng.oversea.cnki.net/kcms/detail/detail.aspx?recid=&FileName=XTLL201611005&DbName=CJFD2016&DbCode=CJFD&uid=WEEvREcwSlJHSldRa1FhdkJkVWI2cEgrNUYxOHFWRVNRUk9WaDJuVlZyUT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!)
->_With Ying Yuan, Mengdi Wang, and Xiaoian Fan_<br />_System Engineering Theory and Practice. 36(11): 2778-2790, November 2016._
+>_With Ying Yuan, Mengdi Wang, and Xiaoqian Fan_<br />_System Engineering Theory and Practice. 36(11): 2778-2790, November 2016._
 
 
 ## Working Papers
 1. Is investor attention more informative than price jump in volatility forecasting? Evidence from the ChiNext stock market 
->_With Ying Yuan and Yu Wei_
+>_With Ying Yuan, and Yu Wei_
 
 2. Forecasting through the Daily Postings: Sina Weibo and the Stock Market Volatility Predictability 
 >_With Ying Yuan, and Didier Sornette_
