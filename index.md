@@ -37,7 +37,7 @@ Volatility modeling, Behavior finance, Empirical asset pricing, Financial risk m
 
 ## Publications and Forthcoming
 1. [Is microblogging data reflected in stock market volatility? Evidence from Sina Weibo](https://www.sciencedirect.com/science/article/pii/S1544612318307803)
->_With Ying Yuan, and Xi Wu_<br />_Finance Research Letters. Forthcoming_
+>_With Ying Yuan, and Xi Wu_<br />_Finance Research Letters. 32: 101173, January 2020._
 
 
 2. Can investor attention help to predict stock market volatility? An empirical research based on Chinese stock market high-frequency data 
@@ -52,15 +52,19 @@ Volatility modeling, Behavior finance, Empirical asset pricing, Financial risk m
 >_With Ying Yuan, and Xintian Zhuang_<br />_Journal of Northeastern University (Natural Science). Forthcoming_
 
 
-5. [Determination of Extreme Volatility Threshold of Chinese Stock Market Based on DFA and Its Application:Evidence from Shanghai Composite Index](http://new.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2019&filename=SGLK201901014&v=MTQwMzZXNzNJTmlySFpiRzRIOWpNcm85RVlJUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSTE9lWmVkdUZDbm4=)
+5. The Long Memory Research of Extreme Returns in Chinese Stock Market
+>_With Ying Yuan, and Xintian Zhuang_<br />_Complex Systems and Complexity Science. Forthcoming_
+
+
+6. [Determination of Extreme Volatility Threshold of Chinese Stock Market Based on DFA and Its Application:Evidence from Shanghai Composite Index](http://new.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2019&filename=SGLK201901014&v=MTQwMzZXNzNJTmlySFpiRzRIOWpNcm85RVlJUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSTE9lWmVkdUZDbm4=)
 >_With Ying Yuan, and Xintong Yu_<br />_Shanghai Management Science. 41(1): 81-85, January 2019._
 
 
-6. [Empirical research on the dependency of the CSI 300 index futures market and spot market](http://oversea.cnki.net/kcms/detail/detail.aspx?recid=&FileName=DBDX201701030&DbName=CJFD2017&DbCode=CJFD&uid=WEEvREcwSlJHSldRa1FhdkJkVWI2cEgrNUYxOHFWRVNRUk9WaDJuVlZyUT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!)
+7. [Empirical research on the dependency of the CSI 300 index futures market and spot market](http://oversea.cnki.net/kcms/detail/detail.aspx?recid=&FileName=DBDX201701030&DbName=CJFD2017&DbCode=CJFD&uid=WEEvREcwSlJHSldRa1FhdkJkVWI2cEgrNUYxOHFWRVNRUk9WaDJuVlZyUT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!)
 >_With Ying Yuan, Mengdi Wang, and Xiaoqian Fan_<br />_Journal of Northeastern University. 38(1): 148-152, January 2017._
  
 
-7. [Research on the examination of dependency of market, the asymmetry and the direction of contagion](http://eng.oversea.cnki.net/kcms/detail/detail.aspx?recid=&FileName=XTLL201611005&DbName=CJFD2016&DbCode=CJFD&uid=WEEvREcwSlJHSldRa1FhdkJkVWI2cEgrNUYxOHFWRVNRUk9WaDJuVlZyUT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!)
+8. [Research on the examination of dependency of market, the asymmetry and the direction of contagion](http://eng.oversea.cnki.net/kcms/detail/detail.aspx?recid=&FileName=XTLL201611005&DbName=CJFD2016&DbCode=CJFD&uid=WEEvREcwSlJHSldRa1FhdkJkVWI2cEgrNUYxOHFWRVNRUk9WaDJuVlZyUT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!)
 >_With Ying Yuan, Mengdi Wang, and Xiaoqian Fan_<br />_System Engineering Theory and Practice. 36(11): 2778-2790, November 2016._
 
 
