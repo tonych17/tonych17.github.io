@@ -35,7 +35,7 @@ Volatility modeling, Behavior finance, Empirical asset pricing, Financial risk m
 >_With Ying Yuan_<br />_Economics Letters. Under Review._
 
 
-## Publications and Forthcoming
+## Published or Forthcoming Papers
 1. [Is microblogging data reflected in stock market volatility? Evidence from Sina Weibo](https://www.sciencedirect.com/science/article/pii/S1544612318307803)
 >_With Ying Yuan, and Xi Wu_<br />_Finance Research Letters. 32: 101173, January 2020._
 
