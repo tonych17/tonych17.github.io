@@ -60,7 +60,7 @@ Volatility modeling, Behavior finance, Empirical asset pricing, Financial risk m
 >_With Ying Yuan, and Xintong Yu_<br />_Shanghai Management Science. 41(1): 81-85, January 2019._
 
 
-7. [Empirical research on the dependency of the CSI 300 index futures market and spot market](http://oversea.cnki.net/kcms/detail/detail.aspx?recid=&FileName=DBDX201701030&DbName=CJFD2017&DbCode=CJFD&uid=WEEvREcwSlJHSldRa1FhdkJkVWI2cEgrNUYxOHFWRVNRUk9WaDJuVlZyUT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!)
+7. [Empirical research on the dependency of the CSI 300 index futures market and spot market](http://xuebao.neu.edu.cn/natural/CN/10.12068/j.issn.1005-3026.2017.01.030)
 >_With Ying Yuan, Mengdi Wang, and Xiaoqian Fan_<br />_Journal of Northeastern University. 38(1): 148-152, January 2017._
  
 
