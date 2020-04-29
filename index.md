@@ -36,24 +36,24 @@ Volatility modeling, Behavior finance, Empirical asset pricing, Financial risk m
 
 
 ## Published or Forthcoming Papers
-1. [Is microblogging data reflected in stock market volatility? Evidence from Sina Weibo](https://www.sciencedirect.com/science/article/pii/S1544612318307803)
->_With Ying Yuan, and Xi Wu_<br />_Finance Research Letters. 32: 101173, January 2020._
-
-
-2. Can investor attention help to predict stock market volatility? An empirical research based on Chinese stock market high-frequency data 
+1. Can investor attention help to predict stock market volatility? An empirical research based on Chinese stock market high-frequency data 
 >_With Ying Yuan, and Wen Zeng_<br />_Chinese Journal of Management Science. Forthcoming_
 
 
-3. Multifractal volatility forecast of Chinese stock market
+2. Multifractal volatility forecast of Chinese stock market
 >_With Ying Yuan, and Xintian Zhuang_<br />_System Engineering Theory and Practice. Forthcoming_
 
 
-4. The Long Memory Research of Extreme Returns in Chinese Stock Market
+3. The Long Memory Research of Extreme Returns in Chinese Stock Market
 >_With Ying Yuan, and Xintian Zhuang_<br />_Complex Systems and Complexity Science. Forthcoming_
 
 
-5. [Multifractal Volatility Modeling of Stock Market Considering Jumps and Leverage Effects](http://xuebao.neu.edu.cn/natural/CN/10.12068/j.issn.1005-3026.2020.04.024)
+4. [Multifractal Volatility Modeling of Stock Market Considering Jumps and Leverage Effects](http://xuebao.neu.edu.cn/natural/CN/10.12068/j.issn.1005-3026.2020.04.024)
 >_With Ying Yuan, and Xintian Zhuang_<br />_Journal of Northeastern University (Natural Science). 41(4): 594-598, April 2020._
+
+
+5. [Is microblogging data reflected in stock market volatility? Evidence from Sina Weibo](https://www.sciencedirect.com/science/article/pii/S1544612318307803)
+>_With Ying Yuan, and Xi Wu_<br />_Finance Research Letters. 32: 101173, January 2020._
 
 
 6. [Determination of Extreme Volatility Threshold of Chinese Stock Market Based on DFA and Its Application:Evidence from Shanghai Composite Index](http://new.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2019&filename=SGLK201901014&v=MTQwMzZXNzNJTmlySFpiRzRIOWpNcm85RVlJUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSTE9lWmVkdUZDbm4=)
