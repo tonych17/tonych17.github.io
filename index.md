@@ -48,12 +48,12 @@ Volatility modeling, Behavior finance, Empirical asset pricing, Financial risk m
 >_With Ying Yuan, and Xintian Zhuang_<br />_System Engineering Theory and Practice. Forthcoming_
 
 
-4. Multifractal Volatility Modeling with the Jump and Leverage Effect
->_With Ying Yuan, and Xintian Zhuang_<br />_Journal of Northeastern University (Natural Science). Forthcoming_
-
-
-5. The Long Memory Research of Extreme Returns in Chinese Stock Market
+4. The Long Memory Research of Extreme Returns in Chinese Stock Market
 >_With Ying Yuan, and Xintian Zhuang_<br />_Complex Systems and Complexity Science. Forthcoming_
+
+
+5. [Multifractal Volatility Modeling of Stock Market Considering Jumps and Leverage Effects](http://xuebao.neu.edu.cn/natural/CN/10.12068/j.issn.1005-3026.2020.04.024)
+>_With Ying Yuan, and Xintian Zhuang_<br />_Journal of Northeastern University (Natural Science). 41(4): 594-598, April 2020._
 
 
 6. [Determination of Extreme Volatility Threshold of Chinese Stock Market Based on DFA and Its Application:Evidence from Shanghai Composite Index](http://new.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2019&filename=SGLK201901014&v=MTQwMzZXNzNJTmlySFpiRzRIOWpNcm85RVlJUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSTE9lWmVkdUZDbm4=)
