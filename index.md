@@ -36,16 +36,16 @@ Volatility modeling, Behavior finance, Empirical asset pricing, Financial risk m
 
 
 ## Published or Forthcoming Papers
-1. Can investor attention help to predict stock market volatility? An empirical research based on Chinese stock market high-frequency data 
->_With Ying Yuan, and Wen Zeng_<br />_Chinese Journal of Management Science. Forthcoming_
-
-
-2. Multifractal volatility forecast of Chinese stock market
+1. Multifractal volatility forecast of Chinese stock market
 >_With Ying Yuan, and Xintian Zhuang_<br />_System Engineering Theory and Practice. Forthcoming_
 
 
-3. The Long Memory Research of Extreme Returns in Chinese Stock Market
+2. The Long Memory Research of Extreme Returns in Chinese Stock Market
 >_With Ying Yuan, and Xintian Zhuang_<br />_Complex Systems and Complexity Science. Forthcoming_
+
+
+3. [Can investor attention help to predict stock market volatility? An empirical research based on Chinese stock market high-frequency data](http://new.oversea.cnki.net/KCMS/detail/11.2835.G3.20191230.1421.002.html) 
+>_With Ying Yuan, and Wen Zeng_<br />_Chinese Journal of Management Science. Forthcoming_
 
 
 4. [Multifractal Volatility Modeling of Stock Market Considering Jumps and Leverage Effects](http://xuebao.neu.edu.cn/natural/CN/10.12068/j.issn.1005-3026.2020.04.024)
