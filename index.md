@@ -45,7 +45,7 @@ Volatility modeling, Behavior finance, Empirical asset pricing, Financial risk m
 
 
 3. [Long Memory of Extreme Returns in Chinese Stock Market](http://new.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDAUTO&filename=FZXT202001003&v=Mjk1MjRlckc0SE5ITXJvOUZaNFI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUjdxZlllWnVGeS9nVnJyTUl6ZlQ=)
->_With Ying Yuan, and Xintian Zhuang_<br />_Complex Systems and Complexity Science. 17(1): 21-29, March 2020_
+>_With Ying Yuan, and Xintian Zhuang_<br />_Complex Systems and Complexity Science. 17(1): 21-29, March 2020._
 
 
 4. [Multifractal Volatility Modeling of Stock Market Considering Jumps and Leverage Effects](http://xuebao.neu.edu.cn/natural/CN/10.12068/j.issn.1005-3026.2020.04.024)
