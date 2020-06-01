@@ -40,12 +40,12 @@ Volatility modeling, Behavior finance, Empirical asset pricing, Financial risk m
 >_With Ying Yuan, and Xintian Zhuang_<br />_System Engineering Theory and Practice. Forthcoming_
 
 
-2. The Long Memory Research of Extreme Returns in Chinese Stock Market
->_With Ying Yuan, and Xintian Zhuang_<br />_Complex Systems and Complexity Science. Forthcoming_
-
-
-3. [Can investor attention help to predict stock market volatility? An empirical research based on Chinese stock market high-frequency data](http://new.oversea.cnki.net/KCMS/detail/11.2835.G3.20191230.1421.002.html) 
+2. [Can investor attention help to predict stock market volatility? An empirical research based on Chinese stock market high-frequency data](http://new.oversea.cnki.net/KCMS/detail/11.2835.G3.20191230.1421.002.html) 
 >_With Ying Yuan, and Wen Zeng_<br />_Chinese Journal of Management Science. In Press_
+
+
+3. [Long Memory of Extreme Returns in Chinese Stock Market](http://new.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDAUTO&filename=FZXT202001003&v=Mjk1MjRlckc0SE5ITXJvOUZaNFI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUjdxZlllWnVGeS9nVnJyTUl6ZlQ=)
+>_With Ying Yuan, and Xintian Zhuang_<br />_Complex Systems and Complexity Science. 17(1): 21-29, March 2020_
 
 
 4. [Multifractal Volatility Modeling of Stock Market Considering Jumps and Leverage Effects](http://xuebao.neu.edu.cn/natural/CN/10.12068/j.issn.1005-3026.2020.04.024)
